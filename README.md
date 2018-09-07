@@ -1,3 +1,3 @@
 # DATA STRUCTURES 
-#** practice it **
-#*try it *
+** practice it **
+*try it *
