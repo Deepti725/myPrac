@@ -1,4 +1,4 @@
 # DATA STRUCTURES 
-practice it
+**practice it**
 *try it *
 >please
